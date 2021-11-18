@@ -1,0 +1,26 @@
+Training begins...
+Epoch 0: accuracy -> 0.5275, val_accuracy -> 0.5030
+Epoch 1: accuracy -> 0.5775, val_accuracy -> 0.6345
+Epoch 2: accuracy -> 0.6075, val_accuracy -> 0.7055
+Epoch 3: accuracy -> 0.6550, val_accuracy -> 0.6860
+Epoch 4: accuracy -> 0.6570, val_accuracy -> 0.7200
+Epoch 5: accuracy -> 0.6840, val_accuracy -> 0.6915
+Epoch 6: accuracy -> 0.6745, val_accuracy -> 0.6805
+Epoch 7: accuracy -> 0.6910, val_accuracy -> 0.7525
+Epoch 8: accuracy -> 0.7050, val_accuracy -> 0.7720
+Epoch 9: accuracy -> 0.7150, val_accuracy -> 0.7650
+Epoch 10: accuracy -> 0.7415, val_accuracy -> 0.7745
+Epoch 11: accuracy -> 0.7310, val_accuracy -> 0.7755
+Epoch 12: accuracy -> 0.7505, val_accuracy -> 0.8145
+Epoch 13: accuracy -> 0.7665, val_accuracy -> 0.7865
+Epoch 14: accuracy -> 0.7645, val_accuracy -> 0.8235
+Epoch 15: accuracy -> 0.7745, val_accuracy -> 0.8250
+Epoch 16: accuracy -> 0.7905, val_accuracy -> 0.8530
+Epoch 17: accuracy -> 0.7860, val_accuracy -> 0.8390
+Epoch 18: accuracy -> 0.7995, val_accuracy -> 0.8345
+Epoch 19: accuracy -> 0.7975, val_accuracy -> 0.8630
+Epoch 20: accuracy -> 0.8025, val_accuracy -> 0.8450
+Epoch 21: accuracy -> 0.8200, val_accuracy -> 0.8685
+Epoch 22: accuracy -> 0.8135, val_accuracy -> 0.8610
+Epoch 23: accuracy -> 0.8315, val_accuracy -> 0.8600
+Epoch 24: accuracy -> 0.8255, val_accuracy -> 0.8980
